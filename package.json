@@ -1,0 +1,25 @@
+{
+  "name": "socket.io-experemental",
+  "version": "1.0.0",
+  "description": "Play with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fox-experemental/socket.io.git"
+  },
+  "keywords": [
+    "experemental"
+  ],
+  "author": "Loutchansky Oleg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fox-experemental/socket.io/issues"
+  },
+  "homepage": "https://github.com/fox-experemental/socket.io#readme",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
+}
