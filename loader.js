@@ -14,5 +14,6 @@ if (cluster.isMaster) {
 } else {
   console.log(`Worker ${cluster.worker.id} is run`);
 
-  require('./index');
+  require('./socket');
+  require('./express');
 }
